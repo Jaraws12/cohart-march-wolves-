@@ -1,0 +1,6 @@
+tensorflow
+pandas 
+flask
+cors
+pymongo
+flask-cors
